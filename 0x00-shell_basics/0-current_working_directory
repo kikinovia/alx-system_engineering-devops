@@ -1,2 +1,2 @@
 #!/bin/bash
-readlink -m $0
+realpath $0
